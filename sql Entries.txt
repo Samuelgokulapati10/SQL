@@ -1,0 +1,24 @@
+INSERT INTO
+  entries(
+    doctor_id,
+    desease,
+    medium_sub,
+    date_of_joining,
+    date_of_discharge
+  )
+VALUES
+  (
+    1,
+    "Typhoid",
+    "medium",
+    "12-02-2022",
+    "20-02-2022"
+  ),
+  (2, "Fever", "Sub", "14-03-2022", "20-03-2022"),
+  (
+    3,
+    "Malaria",
+    "Medium",
+    "15-04-2022",
+    "24-04-2022"
+  )
